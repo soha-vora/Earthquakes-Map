@@ -54,6 +54,3 @@ hiq/
 # Future Improvements
 - Add dropdown filter for human-induced causes
 - Analysis of magnitude by cause
-
-# License
- - All rights reserved
